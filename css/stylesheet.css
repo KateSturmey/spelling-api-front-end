@@ -17,18 +17,11 @@ min-width: 100% !important;
 }
 
 .container {
-padding: 10px 300px 10px 300px;	
+padding: 10px 10px 10px 0px;
+    width: 100%;
+    margin-left: 15%;	
 }
 
-.container-1 {
-margin: 0px 100px 10px 100px;
-padding: 0px 300px 10px 300px;	
-}
-
-.container-2 {
-margin: 0px 100px 10px 100px;
-padding: 0px 300px 10px 300px;	
-}
 #user_name #password_hash{
 	padding: 10px 10px 10px 10px;
 }
