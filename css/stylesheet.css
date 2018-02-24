@@ -104,9 +104,6 @@ padding: 10px 10px 10px 0px;
   cursor: pointer;
   transition: all 0.3s ease-out;
 }
-.button:hover {
-  background: #06D85F;
-}
 
 .btn-primary {
     color: white;
@@ -120,4 +117,10 @@ padding: 10px 10px 10px 0px;
 }
 .row {
 	margin: 20px 20px 20px 20px;
+}
+
+#back-1 #back-2 #back-3 #back-4 {
+	background-color: #808080;
+    border-color: #808080;    
+
 }
