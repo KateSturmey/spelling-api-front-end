@@ -130,6 +130,11 @@ $(document).ready(function(){
 		$("#word-4-8").show();
 		$("#word-4-9").show();
 		$("#word-4-10").show();
+		$("#word-4-11").show();
+		$("#word-4-12").show();
+		$("#word-4-13").show();
+		$("#word-4-14").show();
+		$("#word-4-15").show();
     });
 	$("#test-4").click(function(){
         $("#word-4-1").hide();
@@ -142,6 +147,11 @@ $(document).ready(function(){
 		$("#word-4-8").hide();
 		$("#word-4-9").hide();
 		$("#word-4-10").hide();
+		$("#word-4-11").hide();
+		$("#word-4-12").hide();
+		$("#word-4-13").hide();
+		$("#word-4-14").hide();
+		$("#word-4-15").hide();
     });
 });
 
